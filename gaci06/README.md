@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning web design 
 
+#EL BICHO
+#EL NANO
+O_O
+
 <!--
 **gaci06/gaci06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
