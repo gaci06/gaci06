@@ -31,7 +31,7 @@
 
 Si tienes una idea increíble o simplemente quieres charlar sobre desarrollo, no dudes en contactarme:
 
-- ✉️ **Email**: gonzalo.dev@correo.com  
+- ✉️ **Email**: gacif068@gmail.com  
 - 🔗 **Portafolio (próximamente)**: [gonzalo.dev](https://gonzalo.dev)  
 
 ---
