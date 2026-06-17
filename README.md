@@ -1,4 +1,4 @@
-# 👋 Gonzalo García | Desarrollador Web
+# 👋 Gonzalo Gacimartín | Desarrollador Web
 
 Desarrollador web recién graduado en DAW, con experiencia real en proyectos para clientes.
 Me manejo tanto en frontend como en backend y tengo especial interés en automatización e integración de APIs.
