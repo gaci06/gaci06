@@ -1,39 +1,47 @@
-# 💻 Gonzalo | Futuro Desarrollador Web 🚀
+# 👋 Gonzalo García | Desarrollador Web
 
-¡Hola! 👋 Soy Gonzalo, estudiante de Desarrollo de Aplicaciones Web (DAW) en mi segundo año. Mi pasión es convertir ideas en proyectos digitales funcionales y atractivos. Actualmente, estoy explorando nuevas tecnologías y consolidando mi conocimiento en el fascinante mundo del desarrollo.
+Desarrollador web recién graduado en DAW, con experiencia real en proyectos para clientes.
+Me manejo tanto en frontend como en backend y tengo especial interés en automatización e integración de APIs.
 
-## 🌟 Sobre mí
+---
 
-- 🔭 **Aprendiendo**: Mejoro cada día mis habilidades en **JavaScript**, **HTML**, **CSS**, y frameworks como **React**.
-- 🌱 **Creciendo**: También estoy incursionando en el desarrollo backend con **Node.js**, **Express**, y bases de datos como **MySQL** y **MongoDB**.
-- 🎯 **Meta actual**: Crear un portafolio profesional que refleje lo aprendido durante mis estudios y mis proyectos personales.
-- 🤝 **Colaboraciones**: Siempre abierto a proyectos interesantes y desafiantes donde pueda aprender y aportar.
+## 🛠️ Stack técnico
 
-## ⚡ Datos curiosos
-
-- 🌍 Sueño con crear aplicaciones que tengan un impacto positivo.
-- 💡 Amo los retos de **resolver problemas** y buscar soluciones creativas.
-- 🎮 En mi tiempo libre, disfruto del deporte, especialmente el futbol.
-- 🌟 Filosofía: "El aprendizaje nunca se detiene, porque el código tampoco."
-
-## 🛠️ Habilidades técnicas
-
+**Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat)
+
+**Backend & Herramientas**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
-## 📫 ¡Conéctate conmigo!
-
-Si tienes una idea increíble o simplemente quieres charlar sobre desarrollo, no dudes en contactarme:
-
-- ✉️ **Email**: gacif068@gmail.com  
-- 🔗 **Portafolio (próximamente)**: [gonzalo.dev](https://gonzalo.dev)  
+![N8N](https://img.shields.io/badge/-N8N-EA4B71?logo=n8n&logoColor=white&style=flat)
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡El código siempre tiene algo nuevo que enseñarnos!* ✨
+## 💼 Experiencia destacada
+
+**Desarrollador Web — Grupo Oro** *(prácticas, mar–may 2025)*
+- Desarrollo de sitios web para clientes reales con WordPress y Elementor
+- Automatización de flujos de trabajo con N8N, incluyendo agentes de IA
+- Integración con APIs externas para optimización del consumo energético
+- Optimización SEO y gestión de comercio electrónico
+
+---
+
+## 📌 Proyectos
+
+> Aquí encontrarás mis proyectos de DAW, experimentos personales y trabajos con tecnologías reales.
+> Echa un vistazo a los repositorios fijados 👇
+
+---
+
+## 📫 Contacto
+
+- ✉️ gacif068@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gonzalo-gacimartin-394b0618b/)
