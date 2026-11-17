@@ -6,7 +6,7 @@ Desarrollador web (CFGS DAW) cursando el **Grado en Computación e Inteligencia 
 
 ## 🚀 Proyectos
 
-### ⚽ AEAB — Plataforma de estadísticas para un equipo de fútbol 7
+### ⚽ AEAB — Plataforma de estadísticas para un equipo de fútbol 7. Repositorio privado por privacidad de datos.
 **Web + app Android (APK)** · 🌐 [aeab.pages.dev](https://aeab.pages.dev)
 
 En uso real durante la temporada: datos registrados en directo en cada partido.
@@ -20,7 +20,7 @@ En uso real durante la temporada: datos registrados en directo en cada partido.
 - **Interacción de fans:** sistema de "birras" (votos de apoyo) con reglas de uso: límite por jornada, anonimato y deshacer durante 5 minutos
 - **Copias de seguridad** en el móvil con restauración en dos toques y subida a la web
 
-### 📱 Panel Personal — App Android nativa *(en desarrollo)*
+### 📱 Panel Personal — App Android nativa *(en desarrollo)* - Repositorio privado
 Mi asistente personal en el móvil, desarrollado en Android Studio.
 
 - Pantalla de resumen diario y **widget** con las citas de hoy/mañana y el gasto del mes
@@ -31,9 +31,6 @@ Mi asistente personal en el móvil, desarrollado en Android Studio.
 
 ### 🎵 Furor — Simulador del concurso musical
 Recreación web del concurso de televisión de los 90, hecha con **Vite + React**.
-
-### ☁️ Infraestructuras y Servicios en la Nube
-Laboratorios de la asignatura de la universidad *(repositorio privado)*.
 
 ---
 
