@@ -6,7 +6,7 @@ Desarrollador web (CFGS DAW) cursando el **Grado en Computación e Inteligencia 
 
 ## 🚀 Proyectos
 
-### ⚽ AEAB — Plataforma de estadísticas para un equipo de fútbol 7. Repositorio privado por privacidad de datos.
+### ⚽ AEAB — Plataforma de estadísticas para un equipo de fútbol 7.
 **Web + app Android (APK)** · 🌐 [aeab.pages.dev](https://aeab.pages.dev)
 
 En uso real durante la temporada: datos registrados en directo en cada partido.
@@ -19,6 +19,8 @@ En uso real durante la temporada: datos registrados en directo en cada partido.
 - **Roles y permisos:** admin, entrenador, jugador y fan, con vistas distintas para cada uno
 - **Interacción de fans:** sistema de "birras" (votos de apoyo) con reglas de uso: límite por jornada, anonimato y deshacer durante 5 minutos
 - **Copias de seguridad** en el móvil con restauración en dos toques y subida a la web
+
+ - Repositorio privado por privacidad de datos -
 
 ### 📱 Panel Personal — App Android nativa *(en desarrollo)* - Repositorio privado
 Mi asistente personal en el móvil, desarrollado en Android Studio.
