@@ -6,7 +6,7 @@ Desarrollador web (CFGS DAW) cursando el **Grado en Computación e Inteligencia 
 
 ## 🚀 Proyectos
 
-### ⚽ AEAB — Plataforma de estadísticas para un equipo de fútbol 7.
+### ⚽ AEAB — Plataforma de estadísticas para un equipo de fútbol 7
 **Web + app Android (APK)** · 🌐 [aeab.pages.dev](https://aeab.pages.dev)
 
 En uso real durante la temporada: datos registrados en directo en cada partido.
@@ -20,9 +20,9 @@ En uso real durante la temporada: datos registrados en directo en cada partido.
 - **Interacción de fans:** sistema de "birras" (votos de apoyo) con reglas de uso: límite por jornada, anonimato y deshacer durante 5 minutos
 - **Copias de seguridad** en el móvil con restauración en dos toques y subida a la web
 
- - Repositorio privado por privacidad de datos -
+> 🔒 Repositorio privado para proteger los datos reales de los jugadores. La web está disponible en el enlace de arriba.
 
-### 📱 Panel Personal — App Android nativa *(en desarrollo)* - Repositorio privado
+### 📱 Panel Personal — App Android nativa *(en desarrollo)*
 Mi asistente personal en el móvil, desarrollado en Android Studio.
 
 - Pantalla de resumen diario y **widget** con las citas de hoy/mañana y el gasto del mes
@@ -30,6 +30,8 @@ Mi asistente personal en el móvil, desarrollado en Android Studio.
 - Calendario con horarios fijos, avisos antes de cada cita y resumen cada mañana
 - Tareas ordenadas por prioridad y planificador semanal de gimnasio
 - Datos guardados en el dispositivo, con copia exportable
+
+> 🔒 Repositorio privado: contiene datos personales.
 
 ### 🎵 Furor — Simulador del concurso musical
 Recreación web del concurso de televisión de los 90, hecha con **Vite + React**.
@@ -77,6 +79,7 @@ Recreación web del concurso de televisión de los 90, hecha con **Vite + React*
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Datos e IA**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Agentes IA](https://img.shields.io/badge/Agentes_de_IA-412991?style=flat&logo=openai&logoColor=white)
 
@@ -86,7 +89,7 @@ Recreación web del concurso de televisión de los 90, hecha con **Vite + React*
 
 - 📱 Desarrollando la primera versión del **Panel Personal** para Android
 - ⚽ Ampliando **AEAB** con nuevas métricas de rendimiento por jornada
-- 🎓 Estudiando ciencia de datos, series temporales y cloud en el grado
+- 🎓 Estudiando ciencia de datos (Python y R), series temporales y cloud en el grado
 
 ---
 
